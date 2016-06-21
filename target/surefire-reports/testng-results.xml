@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Service Layer Suite" duration-ms="135" started-at="2016-06-21T03:05:19Z" finished-at="2016-06-21T03:05:19Z">
+    <groups>
+    </groups>
+    <test name="Sample test" duration-ms="135" started-at="2016-06-21T03:05:19Z" finished-at="2016-06-21T03:05:19Z">
+      <class name="com.intelliment.service.TestServiceLayer">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.intelliment.service.TestServiceLayer@6b71769e]" name="setup" is-config="true" duration-ms="13" started-at="2016-06-21T08:35:19Z" finished-at="2016-06-21T08:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testgetWordsCountasMap(java.lang.String, int, int)[pri:0, instance:com.intelliment.service.TestServiceLayer@6b71769e]" name="testgetWordsCountasMap" duration-ms="95" started-at="2016-06-21T08:35:19Z" data-provider="testgetWordsCountasMap" finished-at="2016-06-21T08:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[this is me]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetWordsCountasMap -->
+        <test-method status="PASS" signature="testgetWordsCountasMap(java.lang.String, int, int)[pri:0, instance:com.intelliment.service.TestServiceLayer@6b71769e]" name="testgetWordsCountasMap" duration-ms="1" started-at="2016-06-21T08:35:19Z" data-provider="testgetWordsCountasMap" finished-at="2016-06-21T08:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[this is test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetWordsCountasMap -->
+        <test-method status="PASS" signature="testgetWordsCountasMap(java.lang.String, int, int)[pri:0, instance:com.intelliment.service.TestServiceLayer@6b71769e]" name="testgetWordsCountasMap" duration-ms="1" started-at="2016-06-21T08:35:19Z" data-provider="testgetWordsCountasMap" finished-at="2016-06-21T08:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[this is is ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetWordsCountasMap -->
+        <test-method status="PASS" signature="testgetWordsCountasMap(java.lang.String, int, int)[pri:0, instance:com.intelliment.service.TestServiceLayer@6b71769e]" name="testgetWordsCountasMap" duration-ms="1" started-at="2016-06-21T08:35:19Z" data-provider="testgetWordsCountasMap" finished-at="2016-06-21T08:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[this is this]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetWordsCountasMap -->
+        <test-method status="PASS" signature="testgetWordsCountasMap(java.lang.String, int, int)[pri:0, instance:com.intelliment.service.TestServiceLayer@6b71769e]" name="testgetWordsCountasMap" duration-ms="1" started-at="2016-06-21T08:35:19Z" data-provider="testgetWordsCountasMap" finished-at="2016-06-21T08:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[this. Is this is]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetWordsCountasMap -->
+        <test-method status="PASS" signature="testgetWordsCountasMap(java.lang.String, int, int)[pri:0, instance:com.intelliment.service.TestServiceLayer@6b71769e]" name="testgetWordsCountasMap" duration-ms="1" started-at="2016-06-21T08:35:19Z" data-provider="testgetWordsCountasMap" finished-at="2016-06-21T08:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[this is.my time]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetWordsCountasMap -->
+        <test-method status="PASS" signature="testgetWordsCountasMap(java.lang.String, int, int)[pri:0, instance:com.intelliment.service.TestServiceLayer@6b71769e]" name="testgetWordsCountasMap" duration-ms="1" started-at="2016-06-21T08:35:19Z" data-provider="testgetWordsCountasMap" finished-at="2016-06-21T08:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test,]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetWordsCountasMap -->
+      </class> <!-- com.intelliment.service.TestServiceLayer -->
+    </test> <!-- Sample test -->
+  </suite> <!-- Service Layer Suite -->
+</testng-results>
